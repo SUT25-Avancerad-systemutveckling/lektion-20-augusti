@@ -1,0 +1,12 @@
+﻿@model WeatherApp.Models.WeatherForecast;
+
+<h1>Temperatur just nu</h1>
+
+@if (Model is null)
+{
+    <p>Tyvärr kan vi inte visa temperatur just nu.</p>
+} else
+{
+    <p>Temperatur: @Model.Temperature grader</p>
+    <p>Tid: @Model.Time</p>
+}

@@ -17,7 +17,7 @@ namespace WeatherApp.Services
         {
             var url = $"forecast?latitude={lat.ToString(CultureInfo.InvariantCulture)}" +
           $"&longitude={lon.ToString(CultureInfo.InvariantCulture)}" +
-          "&current=temperature_2m";
+          "&current=temperature_2m&timezone=auto";
 
             try
             {
