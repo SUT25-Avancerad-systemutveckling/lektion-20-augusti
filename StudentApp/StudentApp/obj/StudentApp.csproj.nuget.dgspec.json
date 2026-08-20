@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\StudentApp.csproj": {}
+    "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\StudentApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\StudentApp.csproj": {
+    "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\StudentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\StudentApp.csproj",
+        "projectUniqueName": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\StudentApp.csproj",
         "projectName": "StudentApp",
-        "projectPath": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\StudentApp.csproj",
+        "projectPath": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\StudentApp.csproj",
         "packagesPath": "C:\\Users\\ChristofferWallenber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\obj\\",
+        "outputPath": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

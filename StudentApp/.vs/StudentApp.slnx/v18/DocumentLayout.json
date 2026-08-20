@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\",
+  "WorkspaceRootPath": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\source\\repos\\studentapp\\studentapp\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\studentapp\\studentapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\source\\repos\\studentapp\\studentapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\studentapp\\studentapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\source\\repos\\studentapp\\studentapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\studentapp\\studentapp\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\source\\repos\\studentapp\\studentapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\studentapp\\studentapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\source\\repos\\studentapp\\studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66A33D5C-12AC-4B9C-8D23-F719F7DDABED}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\studentapp\\studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\studentapp\\studentapp\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417B5C1B-2A8D-08E2-FA2E-79052B8E8D42}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Models\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Models\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Models\\StudentViewModel.cs",
+              "RelativeToolTip": "StudentApp\\Models\\StudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T08:45:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Views\\Student\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Views\\Student\\Add.cshtml",
               "RelativeDocumentMoniker": "StudentApp\\Views\\Student\\Add.cshtml",
-              "ToolTip": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Views\\Student\\Add.cshtml",
               "RelativeToolTip": "StudentApp\\Views\\Student\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-20T07:17:40.849Z",
               "EditorCaption": ""
@@ -49,9 +66,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Program.cs",
               "RelativeDocumentMoniker": "StudentApp\\Program.cs",
-              "ToolTip": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Program.cs",
               "RelativeToolTip": "StudentApp\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,24 +77,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Views\\Student\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentApp\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "StudentApp\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-20T07:03:40.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentApp\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Models\\Student.cs",
               "RelativeToolTip": "StudentApp\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentApp\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\ChristofferWallenber\\source\\repos\\StudentApp\\StudentApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\StudentApp\\StudentApp\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentApp\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T07:01:50.898Z",
               "EditorCaption": ""

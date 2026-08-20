@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 using StudentApp.Models;
 
 namespace StudentApp.Controllers
@@ -16,9 +17,31 @@ namespace StudentApp.Controllers
                 Id = 2, Name = "Grace", Program = "Frontend Dev"
             },
         };
-        public IActionResult Index()
+        public IActionResult Index(string query, string sortOrder)
         {
-            return View(_students);
+            var filteredList = _students.AsEnumerable();
+
+            if (!string.IsNullOrEmpty(query))
+            {
+                 filteredList = filteredList.Where(s => s.Name.ToLower().Contains(query.ToLower()));
+            }
+
+            switch(sortOrder)
+            {
+                case "title_asc":
+                    filteredList = filteredList.OrderBy(s => s.Name);
+                    break;
+                case "title_desc":
+                    filteredList = filteredList.OrderByDescending(s => s.Name);
+                    break;
+            }
+
+            var studentVM = new StudentViewModel
+            {
+                Students = filteredList.ToList()
+            };
+
+            return View(studentVM);
         }
 
         public IActionResult Add() { 
