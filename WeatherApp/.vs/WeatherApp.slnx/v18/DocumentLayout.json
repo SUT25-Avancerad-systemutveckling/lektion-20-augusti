@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\weatherapp\\weatherapp\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\weatherapp\\weatherapp\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\weatherapp\\weatherapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|c:\\users\\christofferwallenber\\documents\\zocom\\campus varberg\\avancerad systemutveckling .net\\lektionsrepon\\lektion-20-augusti\\weatherapp\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92B5433-E1A1-452A-B535-174515C986C8}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeToolTip": "WeatherApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:17:40.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeToolTip": "WeatherApp\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:15:08.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "WeatherApp\\Services\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:14:52.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ChristofferWallenber\\Documents\\ZoCom\\Campus Varberg\\Avancerad systemutveckling .NET\\Lektionsrepon\\lektion-20-augusti\\WeatherApp\\WeatherApp\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherApp\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:09:26.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
